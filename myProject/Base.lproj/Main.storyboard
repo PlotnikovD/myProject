@@ -244,6 +244,7 @@
                     </view>
                     <connections>
                         <outlet property="nextDigit" destination="o0P-Om-XFo" id="tiq-3x-7kG"/>
+                        <outlet property="statusLable" destination="o0P-Om-XFo" id="OKS-M0-rD5"/>
                         <outletCollection property="buttons" destination="BRB-4j-Pld" collectionClass="NSMutableArray" id="pPK-3y-opv"/>
                         <outletCollection property="buttons" destination="sj6-2j-yG4" collectionClass="NSMutableArray" id="eIW-A1-7TC"/>
                         <outletCollection property="buttons" destination="wAD-lO-Qxa" collectionClass="NSMutableArray" id="8Zf-wV-S2T"/>
